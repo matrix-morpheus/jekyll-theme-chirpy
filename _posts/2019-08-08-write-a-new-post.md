@@ -112,9 +112,9 @@ $$
   \end{equation}
 $$
 
- $$ \begin{equation}
+ $$ \begin{equation*}
    E = mc^2
-  \end{equation} $$
+  \end{equation*} $$
 
 
 $$
